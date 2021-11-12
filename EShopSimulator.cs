@@ -1,6 +1,4 @@
 ﻿//Alexis D Vera De Jesus
-//P00589971
-//COMP 2400
 using System;
 using System.Collections.Generic;
 
